@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9Lu+jfaZTUe9lc1uqjvlVAAAAAACAAAAAAAQZgAAAAEAACAAAAD2IpyDFYpENAKgmk+cxg6Wtm62oX4wc8aRyLiz1gsY2gAAAAAOgAAAAAIAACAAAADEoO/aSbdZvGaGF5GSWXxc3rxRdehtF58yApun7yrqzDAAAABstlzLpYaNlEMN0Rm++acNV4T6M9fUvhbjiCdyq8ZCVxJoWDT5auU5O1UbJmTr755AAAAAMiQ9mktxzMw0puGcPGvzHXVKBZjQ/yDmT0z1dAGnKcOjJ5+lVr0CUuiVlgIPXkO980492nNjxjrRQEfO5FfeMQ==</EncryptedPassword>
+    <History>False|2022-04-12T18:01:23.7496731Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a8561c_vladislav1204%3bUser Id=db_a8561c_vladislav1204_admin%3bPassword=LeoMessiBarsa10_</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Task_4.Data.ApplicationContext">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a8561c_vladislav1204%3bUser Id=db_a8561c_vladislav1204_admin%3bPassword=LeoMessiBarsa10_</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

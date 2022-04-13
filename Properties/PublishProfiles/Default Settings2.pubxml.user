@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9Lu+jfaZTUe9lc1uqjvlVAAAAAACAAAAAAAQZgAAAAEAACAAAACohCCKh7U5HtMfMrA+joS50DRBGoJUbDqrvg+xqcQAsQAAAAAOgAAAAAIAACAAAADDlx8zgw6N39Kjgf8tGIvWXQNI/oZxNjnpM4DNNy1bujAAAADBkBxHh8fQHfuHjP6ZiXr+coyH+TjIc9MztBQzstZnEteEeCG84dGYxN0aXyo7tktAAAAAhKeWEp5dkU7iqLsOCMBDY65lx4EjcXUjeQjD2GpBA1drTYN4qgdU5wXcwrFYSbF1QZxDTeBzCdnPZKnAu6vNwg==</EncryptedPassword>
+    <History>False|2022-04-12T18:42:54.6482611Z;True|2022-04-12T21:35:31.1047160+03:00;True|2022-04-12T21:14:34.2601324+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a8561c_vladislav1204%3bUser Id=db_a8561c_vladislav1204_admin%3bPassword=LeoMessiBarsa10_</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

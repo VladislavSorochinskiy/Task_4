@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9Lu+jfaZTUe9lc1uqjvlVAAAAAACAAAAAAAQZgAAAAEAACAAAACq1h6xN0qp5mG1tnrZs/X0TzEI3U2CNvR8AeytFQm/NAAAAAAOgAAAAAIAACAAAAByT138N2DmE+6CbSGFnZ6Wb98RSXW/VO2Ad5qUsSxFfzAAAACN7aN91qJYDkL31YaKnTzmOd/Bt4A2s+kaJ6I4oX7pG99h6xAzo8U78iveyeov5FlAAAAA0rQ9iYN2qJZZ4OqloJTXpzEqcHpo7ui9Me2JMtBA3y9vWqBO5tmJjnpsvcT/nYVm1/h8GV6pfejYriKo/Zi10w==</EncryptedPassword>
+    <History>False|2022-04-12T17:59:20.7528887Z;False|2022-04-12T20:57:20.0208959+03:00;False|2022-04-12T20:03:08.3246548+03:00;False|2022-04-12T20:00:36.1950256+03:00;False|2022-04-12T19:58:42.3365017+03:00;False|2022-04-12T19:49:44.7229248+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Task_4.Data.ApplicationContext">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a8561c_vladislav1204%3bUser Id=db_a8561c_vladislav1204_admin%3bPassword=LeoMessiBarsa10_</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
